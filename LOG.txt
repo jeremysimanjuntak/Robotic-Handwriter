@@ -1,0 +1,2 @@
+tried to rearrange everything to use function.
+improperly defined struct Fontdata

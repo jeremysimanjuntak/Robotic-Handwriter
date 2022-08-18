@@ -1,0 +1,544 @@
+# depslib dependency file v1.0
+1543405892 source:d:\year 3\mechatronic s\cw1\robot_writer\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1543405848 source:d:\year 3\mechatronic s\cw1\robot_writer\serial.c
+	<stdio.h>
+	<stdlib.h>
+
+1543683926 source:f:\year 3\mechatronic s\cw1\robot_writer\serial.c
+	<stdio.h>
+	<stdlib.h>
+	"serial.h"
+
+1543682470 source:f:\year 3\mechatronic s\cw1\robot_writer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"serial.h"
+
+1511356394 source:d:\year 3\mechatronic s\cw1\robot_writer\rs232.c
+	"rs232.h"
+
+1501918064 d:\year 3\mechatronic s\cw1\robot_writer\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1511356394 source:f:\year 3\mechatronic s\cw1\robot_writer\rs232.c
+	"rs232.h"
+
+1501918064 f:\year 3\mechatronic s\cw1\robot_writer\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1543683926 f:\year 3\mechatronic s\cw1\robot_writer\serial.h
+	<stdio.h>
+	<string.h>
+
+1543829230 source:f:\year_3\mechatronics\cw1\robot_writer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"rs232.h"
+	"serial.h"
+
+1543829230 f:\year_3\mechatronics\cw1\robot_writer\serial.h
+	<stdio.h>
+	<string.h>
+
+1543685444 source:f:\year_3\mechatronics\cw1\robot_writer\rs232.c
+	"rs232.h"
+
+1543685444 f:\year_3\mechatronics\cw1\robot_writer\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1543829378 source:f:\year_3\mechatronics\cw1\robot_writer\serial.c
+	<stdio.h>
+	<stdlib.h>
+	"serial.h"
+	"rs232.h"
+
+1543685444 source:f:\year_3\mechatronics\cw1\robot_writer\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1543829230 source:f:\year_3\mechatronics\cw1\robot_writer\serial.h
+	<stdio.h>
+	<string.h>
+
+1543942837 source:c:\users\eezjib\documents\_temp files for deleteing\robot_writer_mdempsey\robot_writer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"rs232.h"
+	"serial.h"
+
+1543685444 c:\users\eezjib\documents\_temp files for deleteing\robot_writer_mdempsey\robot_writer\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1543942764 c:\users\eezjib\documents\_temp files for deleteing\robot_writer_mdempsey\robot_writer\serial.h
+	<stdio.h>
+	<string.h>
+
+1543685444 source:c:\users\eezjib\documents\_temp files for deleteing\robot_writer_mdempsey\robot_writer\rs232.c
+	"rs232.h"
+
+1543685444 source:c:\users\eezjib\documents\_temp files for deleteing\robot_writer_mdempsey\robot_writer\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1543942861 source:c:\users\eezjib\documents\_temp files for deleteing\robot_writer_mdempsey\robot_writer\serial.c
+	<stdio.h>
+	<stdlib.h>
+	"serial.h"
+	"rs232.h"
+
+1543836761 source:c:\users\eezjib\documents\_temp files for deleteing\robot_writer_mdempsey\robot_writer\serial.h
+	<stdio.h>
+	<string.h>
+
+1543957972 source:c:\users\eaziaj\documents\cem\robot_writer_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"rs232.h"
+	"serial.h"
+
+1543685444 c:\users\eaziaj\documents\cem\robot_writer_v2\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1543955773 c:\users\eaziaj\documents\cem\robot_writer_v2\serial.h
+	<stdio.h>
+	<string.h>
+
+1543685444 source:c:\users\eaziaj\documents\cem\robot_writer_v2\rs232.c
+	"rs232.h"
+
+1543942862 source:c:\users\eaziaj\documents\cem\robot_writer_v2\serial.c
+	<stdio.h>
+	<stdlib.h>
+	"serial.h"
+	"rs232.h"
+
+1572880444 source:c:\users\eaziaj\documents\my teaching\mech3038\test code for robot writer\robot_writer_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"rs232.h"
+	"serial.h"
+
+1572875816 c:\users\eaziaj\documents\my teaching\mech3038\test code for robot writer\robot_writer_v2\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1572876096 c:\users\eaziaj\documents\my teaching\mech3038\test code for robot writer\robot_writer_v2\serial.h
+	<stdio.h>
+	<string.h>
+
+1572875816 source:c:\users\eaziaj\documents\my teaching\mech3038\test code for robot writer\robot_writer_v2\rs232.c
+	"rs232.h"
+
+1572880795 source:c:\users\eaziaj\documents\my teaching\mech3038\test code for robot writer\robot_writer_v2\serial.c
+	<stdio.h>
+	<stdlib.h>
+	"serial.h"
+	"rs232.h"
+
+1572875816 source:c:\users\eaziaj\documents\my teaching\mech3038\test code for robot writer\robot_writer_v3\rs232.c
+	"rs232.h"
+
+1572875816 c:\users\eaziaj\documents\my teaching\mech3038\test code for robot writer\robot_writer_v3\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1572880795 source:c:\users\eaziaj\documents\my teaching\mech3038\test code for robot writer\robot_writer_v3\serial.c
+	<stdio.h>
+	<stdlib.h>
+	"serial.h"
+	"rs232.h"
+
+1572876096 c:\users\eaziaj\documents\my teaching\mech3038\test code for robot writer\robot_writer_v3\serial.h
+	<stdio.h>
+	<string.h>
+
+1604080024 source:c:\users\epzlpb\onedrive - the university of nottingham\documents\mechatronics\mmme3085 2020-2021\labs and programming exercises\software project\robot_writer_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"rs232.h"
+	"serial.h"
+
+1603967945 c:\users\epzlpb\onedrive - the university of nottingham\documents\mechatronics\mmme3085 2020-2021\labs and programming exercises\software project\robot_writer_v3\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1603967945 c:\users\epzlpb\onedrive - the university of nottingham\documents\mechatronics\mmme3085 2020-2021\labs and programming exercises\software project\robot_writer_v3\serial.h
+	<stdio.h>
+	<string.h>
+
+1603967945 source:c:\users\epzlpb\onedrive - the university of nottingham\documents\mechatronics\mmme3085 2020-2021\labs and programming exercises\software project\robot_writer_v3\rs232.c
+	"rs232.h"
+
+1606308066 source:c:\users\epzlpb\onedrive - the university of nottingham\documents\mechatronics\mmme3085 2020-2021\labs and programming exercises\software project\robot_writer_v3\serial.c
+	<stdio.h>
+	<stdlib.h>
+	"serial.h"
+	"rs232.h"
+
+1606316255 source:c:\users\epzlpb\onedrive - the university of nottingham\documents\mechatronics\mmme3085 2021-2022\project\robot_writer_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"rs232.h"
+	"serial.h"
+
+1603967945 c:\users\epzlpb\onedrive - the university of nottingham\documents\mechatronics\mmme3085 2021-2022\project\robot_writer_v3\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1603967945 c:\users\epzlpb\onedrive - the university of nottingham\documents\mechatronics\mmme3085 2021-2022\project\robot_writer_v3\serial.h
+	<stdio.h>
+	<string.h>
+
+1603967945 source:c:\users\epzlpb\onedrive - the university of nottingham\documents\mechatronics\mmme3085 2021-2022\project\robot_writer_v3\rs232.c
+	"rs232.h"
+
+1606308066 source:c:\users\epzlpb\onedrive - the university of nottingham\documents\mechatronics\mmme3085 2021-2022\project\robot_writer_v3\serial.c
+	<stdio.h>
+	<stdlib.h>
+	"serial.h"
+	"rs232.h"
+
+1636990322 source:c:\users\epzlpb\documents\code\mechatronics\robot_writer_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"rs232.h"
+	"serial.h"
+
+1603967945 c:\users\epzlpb\documents\code\mechatronics\robot_writer_v3\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1636990322 c:\users\epzlpb\documents\code\mechatronics\robot_writer_v3\serial.h
+	<stdio.h>
+	<string.h>
+
+1603967945 source:c:\users\epzlpb\documents\code\mechatronics\robot_writer_v3\rs232.c
+	"rs232.h"
+
+1636990474 source:c:\users\epzlpb\documents\code\mechatronics\robot_writer_v3\serial.c
+	<stdio.h>
+	<stdlib.h>
+	"serial.h"
+	"rs232.h"
+
+1636990322 source:c:\users\epzlpb\documents\code\mechatronics\robot_writer_v3.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"rs232.h"
+	"serial.h"
+
+1603967945 c:\users\epzlpb\documents\code\mechatronics\robot_writer_v3.1\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1636990322 c:\users\epzlpb\documents\code\mechatronics\robot_writer_v3.1\serial.h
+	<stdio.h>
+	<string.h>
+
+1603967945 source:c:\users\epzlpb\documents\code\mechatronics\robot_writer_v3.1\rs232.c
+	"rs232.h"
+
+1636990504 source:c:\users\epzlpb\documents\code\mechatronics\robot_writer_v3.1\serial.c
+	<stdio.h>
+	<stdlib.h>
+	"serial.h"
+	"rs232.h"
+
+1639074119 source:e:\jeremy\university\computer engineering and mechatronics\robot writer\robot_writer_v3.1\rs232.c
+	"rs232.h"
+
+1639074119 e:\jeremy\university\computer engineering and mechatronics\robot writer\robot_writer_v3.1\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1639074119 source:e:\jeremy\university\computer engineering and mechatronics\robot writer\robot_writer_v3.1\serial.c
+	<stdio.h>
+	<stdlib.h>
+	"serial.h"
+	"rs232.h"
+
+1639074119 e:\jeremy\university\computer engineering and mechatronics\robot writer\robot_writer_v3.1\serial.h
+	<stdio.h>
+	<string.h>
+
+1639330825 source:e:\jeremy\university\computer engineering and mechatronics\robot writer\robot_writer_v3.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"rs232.h"
+	"serial.h"
+
+1639074119 source:e:\jeremy\university\computer engineering and mechatronics\robot writer\robot_writer_v3.1 .1\rs232.c
+	"rs232.h"
+
+1639074119 e:\jeremy\university\computer engineering and mechatronics\robot writer\robot_writer_v3.1 .1\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1639074119 source:e:\jeremy\university\computer engineering and mechatronics\robot writer\robot_writer_v3.1 .1\serial.c
+	<stdio.h>
+	<stdlib.h>
+	"serial.h"
+	"rs232.h"
+
+1639074119 e:\jeremy\university\computer engineering and mechatronics\robot writer\robot_writer_v3.1 .1\serial.h
+	<stdio.h>
+	<string.h>
+
+1639074120 source:e:\jeremy\university\computer engineering and mechatronics\robot writer lab fixed 2\robot_writer_v3.1.1\rs232.c
+	"rs232.h"
+
+1639074120 e:\jeremy\university\computer engineering and mechatronics\robot writer lab fixed 2\robot_writer_v3.1.1\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1639074120 source:e:\jeremy\university\computer engineering and mechatronics\robot writer lab fixed 2\robot_writer_v3.1.1\serial.c
+	<stdio.h>
+	<stdlib.h>
+	"serial.h"
+	"rs232.h"
+
+1639074120 e:\jeremy\university\computer engineering and mechatronics\robot writer lab fixed 2\robot_writer_v3.1.1\serial.h
+	<stdio.h>
+	<string.h>
+
+1639074120 source:e:\jeremy\university\computer engineering and mechatronics\robot writer lab fixed 2\robot_writer_v3.1.1 after lab modded\rs232.c
+	"rs232.h"
+
+1639074120 e:\jeremy\university\computer engineering and mechatronics\robot writer lab fixed 2\robot_writer_v3.1.1 after lab modded\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1639074120 source:e:\jeremy\university\computer engineering and mechatronics\robot writer lab fixed 2\robot_writer_v3.1.1 after lab modded\serial.c
+	<stdio.h>
+	<stdlib.h>
+	"serial.h"
+	"rs232.h"
+
+1639074120 e:\jeremy\university\computer engineering and mechatronics\robot writer lab fixed 2\robot_writer_v3.1.1 after lab modded\serial.h
+	<stdio.h>
+	<string.h>
+
+1639714966 source:e:\jeremy\university\computer engineering and mechatronics\robot writer lab fixed 2\robot_writer_v3.1.1 after lab modded\main.c
+	<stdio.h>
+	<stdlib.h>
+	"rs232.h"
+	"serial.h"
+
+1639074120 source:e:\jeremy\university\computer engineering and mechatronics\robot writer lab fixed 2\robot_writer_v3.1.1 final - copy\rs232.c
+	"rs232.h"
+
+1639074120 e:\jeremy\university\computer engineering and mechatronics\robot writer lab fixed 2\robot_writer_v3.1.1 final - copy\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1639074120 source:e:\jeremy\university\computer engineering and mechatronics\robot writer lab fixed 2\robot_writer_v3.1.1 final - copy\serial.c
+	<stdio.h>
+	<stdlib.h>
+	"serial.h"
+	"rs232.h"
+
+1639074120 e:\jeremy\university\computer engineering and mechatronics\robot writer lab fixed 2\robot_writer_v3.1.1 final - copy\serial.h
+	<stdio.h>
+	<string.h>
+
+1639743886 source:e:\jeremy\university\computer engineering and mechatronics\robot writer lab fixed 2\robot_writer_v3.1.1 final - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	"rs232.h"
+	"serial.h"
+
